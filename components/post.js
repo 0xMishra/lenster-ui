@@ -19,15 +19,15 @@ const Post = () => {
         </span>{" "}
         nader mirrored this post
       </p>
-      <div class="w-[98%] flex justify-between p-3">
-        <div class="flex">
+      <div className="w-[98%] flex justify-between p-3">
+        <div className="flex">
           <div
-            class="rounded-full h-14 w-12 bg-gray-500 flex items-center justify-center overflow-hidden
+            className="rounded-full h-14 w-12 bg-gray-500 flex items-center justify-center overflow-hidden
                  
             "
           >
             <img
-              src="https://ik.imagekit.io/lensterimg/tr:n-avatar,tr:di-placeholder.webp/https://lens.infura-ipfs.io/ipfs/bafkreianwlir0groq5l52zdnikon4rtgjcostjosaadbbfekgpzhaprmri "
+              src="https://ik.imagekit.io/lensterimg/tr:n-avatar,tr:di-placeholder.webp/https://lens.infura-ipfs.io/ipfs/QmY7WEGzavjdh9zmLyFTdGj4FvTgjB58Mdvaky9p3NvdiF "
               alt="profilepic"
               className="w-14 h-12 object-cover rounded-full"
             />
@@ -51,7 +51,7 @@ const Post = () => {
         </div>
         <img
           class=" bg-cover h-[248px] w-[90%] px-5 mt-6 mb-1 rounded-lg object-cover"
-          src={`https://ik.imagekit.io/lensterimg/tr:n-attachment,tr:di-placeholder.webp/https://open-graph.opensea.io/v-1/collections/blocktones`}
+          src="https://ik.imagekit.io/lensterimg/tr:n-avatar,tr:di-placeholder.webp/https://lens.infura-ipfs.io/ipfs/QmY7WEGzavjdh9zmLyFTdGj4FvTgjB58Mdvaky9p3NvdiF"
         />
         <span class=" px-7  text-sm ">
           {/* {user.slice(-2, 4) + "..." + user.slice(39, 42)} */}
